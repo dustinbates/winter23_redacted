@@ -1,0 +1,15 @@
+/* BASIC STYLES HERE */
+.scroll{
+  overflow-y: scroll;
+}
+
+.offcanvas{
+  min-height: 50vh;
+}
+
+textarea{
+  width: 100%;
+  background-color: bisque;
+  height: 55vh;
+  overflow-y: auto;
+}
